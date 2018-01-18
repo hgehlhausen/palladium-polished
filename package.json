@@ -1,0 +1,35 @@
+{
+  "name": "palladium-polished",
+  "version": "0.8.1",
+  "description": "A revising and condensing of the rules for palladium system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgehlhausen/palladium-polished.git"
+  },
+  "keywords": [
+    "palladium",
+    "rifts",
+    "genesplicers",
+    "paladium",
+    "dogfights",
+    "dragons",
+    "pilot",
+    "body-fixer",
+    "battlecat",
+    "human",
+    "mutants",
+    "after",
+    "bomb",
+    "race"
+  ],
+  "author": "hgehlhausen",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hgehlhausen/palladium-polished/issues"
+  },
+  "homepage": "https://github.com/hgehlhausen/palladium-polished#readme"
+}
