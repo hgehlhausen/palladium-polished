@@ -1658,13 +1658,11 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 
 <div class="pageNumber auto"></div>
 <div class='footnote'>Appendix | Equipment - Gear </div>
+
 \page
 
 <div class="wide">
 ## Skills
-</div>
-
-<div>
 
 |Skill|Groups|%
 |:-|:-:|-:|
@@ -1706,8 +1704,17 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Sewing                     |domestic, secondary                    |40+5
 |Wardrobe &amp; Grooming    |domestic, secondary                    |50+4
 
+</div>
+
+<div class="pageNumber auto"></div>
+<div class='footnote'>Appendix | Equipment - Gear </div>
+\page
+
+<div class="wide">
+
+## Skills Continued
 |Skill|Groups|%
-|:-|:-:|-:
+|:-|:-:|-:|
 |Basic Electronics          |electrical, secondary                  |30+5
 |Computer Repair            |electrical, secondary                  |30+5
 |Electrical Engineer        |electrical                             |35+5
@@ -1739,10 +1746,6 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Robotics                   |mechanical|20+5
 |Vehical Armorer            |mechanical|30+5
 |Weapons Engineer           |mechanical|25+5
-\page
-|Skill|Secondary|%
-|:-|:-:|-:
-|*Medical*||&nbsp;
 |Animal Husbandry           |medical,secondary|35+5
 |Crime Scene Investigation  |medical|35+5
 |Cybernetic Medicine        |medical|60+5
@@ -1751,6 +1754,15 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |First Aid                  |medical, secondary|45+5
 |Forensics                  |medical|35+5
 |Holistic Medicine          |medical|20+5
+
+</div>
+
+\page
+
+<div class="wide">
+## Skills
+|Skill|Groups|%
+|:-|:-:|-:
 |Pathology                  |medical|40+5
 |Paramedic                  |medical|40+5
 |Medical Doctor             |medical|50+5
@@ -1771,9 +1783,6 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Parachuting                            |military|40+5
 |Recognize Weapon Quality               |military|25+5
 |Trap/Mine Detection                    |military|20+5
-
-
-|*Physical*||&nbsp;
 |H2H:*none*                         |combat, physical|
 |H2H:Basic&sup3;                    |combat, physical ,secondary|–
 |H2H:Expert&sup3;                   |combat, physical|–
@@ -1793,17 +1802,25 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Kick Boxing                        |physical|–
 |Outdoorsmanship                    |physical|–
 |Physical Labor                     |physical|–
+
+</div>
+
+<div class="pageNumber auto"></div>
+<div class='footnote'>Appendix | Skills</div>
+
+\page
+
+<div class="wide">
+
+## Skills Continued
+
+|Skill|Groups|%
+|:-|:-:|-:
 |Prowl                              |rogue, physical|25+5
 |Running                            |physical ,secondary|–
 |Swimming                           |physical ,secondary|50+5
 |SCUBA                              |physical|50+5
 |Wrestling                          |physical|–
-
-\page
-
-|Skill|Secondary|%
-|:-|:-:|-:
-|Pilot
 |Airplane                           |pilot|50+4;
 |Automobile                         |pilot, secondary|60+2
 |Bicycle                            |pilot, secondary|44+4
@@ -1838,6 +1855,19 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Weapon Systems                     |pilot-related|40+5
 |Cardsharp                          |rogue|24+4
 |Computer Hacking                   |rogue|20+5
+
+</div>
+
+<div class="pageNumber auto"></div>
+<div class='footnote'>Appendix | Skills</div>
+
+\page
+
+<div class="wide">
+## Skills
+
+|Skill|Groups|%
+|:-|:-:|-:
 |Concealment                        |rogue|20+4
 |Find Contraband                    |rogue|26+4
 |Gambling(standard)                 |rogue, secondary|30+5
@@ -1864,7 +1894,6 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Math (advanced)                    |science, secondary|45+5
 |Xenology                           |science|30+5
 |Zoology                            |science|30+5
-|Technical
 |Appraise Goods                         |technical, secondary|30+5
 |Art                                    |technical, secondary|35+5
 |Begging                                |technical, secondary|30+3
@@ -1878,6 +1907,19 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Gemology                               |technical, secondary|25+5
 |General Repair &amp; Maintenance       |technical, secondary|35+5
 |History: Pre-Rifts                     |technical, secondary|24+4
+
+</div>
+
+<div class="pageNumber auto"></div>
+<div class='footnote'>Appendix | Skills</div>
+
+\page
+
+<div class="wide">
+## Skills
+
+|Skill|Groups|%
+|:-|:-:|-:
 |History: Post Apocolypse               |technical, secondary|30+5
 |Jury-Rig                               |technical, secondary|25+5
 |Law(General)                           |technical, secondary|35+5
@@ -1900,13 +1942,62 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 |Rope Works                             |technical, secondary|30+5
 |Salvage                                |technical, secondary|35+5
 |Ventriloquism                          |technical, secondary|16+4
-|Whittling & Sculpting                  |technical, secondary|30+5
-|Weapon Proficiency (W.P.)
-|&nbsp;&nbsp;&nbsp;&nbsp;*none*
-|Wilderness
+|Whittling &amp; Sculpting                  |technical, secondary|30+5
+|Boat Building                          |wilderness|25+5
+|Carpentry                              |wilderness|25+5
+|Dowsing                                |wilderness|20+5
+|Fasting                                |wilderness|40+3
+|Hunting                                |wilderness|–
+|Identify Plants &amp; Fruit            |wilderness|25+5
+|Land Navigation                        |wilderness|36+4
+|Preserve Food                          |wilderness|30+5
+|Skin &amp; Prepare Animal Hides        |wilderness|30+5
+|Spelunking                             |wilderness|35+5
+|Track &amp; Trap Animals               |wilderness|(30+5)
 </div>
+
+
 <div class="pageNumber auto"></div>
-<div class='footnote'>Appendix | Skill </div>
+<div class='footnote'>Appendix | Skills </div>
+
+\page
+
+### Weapon Proficiencies (W.P.)
+Weapon Proficiencies are listed under skills, but really 
+they are their own thing and chosen at character creation like skills.
+
+|Skill|Group|
+|:-|:-:|
+|Archery|ancient|
+|Axe|ancient
+|Blunt|ancient
+|Chain|ancient
+|Forked|ancient
+|Grappling Hook|ancient
+|Knife|ancient
+|Paired Weapons (Men at Arms)|ancient
+|Pole Arm|ancient
+|Quick Draw|ancient
+|Rope|ancient
+|Shield|ancient
+|Spear|ancient
+|Staff|ancient
+|Sword|ancient
+|Targeting|ancient
+|Whip|ancient
+|Handguns|modern
+|Rifles|modern
+|Shotgun|modern
+|Submachine-Gun|modern
+|Heavy Military Weapons|modern
+|Military Flamethrowers|modern
+|Harpoon & Spear Gun|modern
+|Energy Pistol|modern
+|Energy Rifle|modern
+|Heavy M.D. Weapons|modern
+
+<div class="pageNumber auto"></div>
+<div class='footnote'>Appendix | Skills </div>
 
 \page
 
