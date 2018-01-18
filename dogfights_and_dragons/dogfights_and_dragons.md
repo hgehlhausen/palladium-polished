@@ -156,8 +156,6 @@ Give these talented artists some recognition, and if you can, some funds as well
 <div class='pageNumber'>II</div>
 <div class='footnote'>Table of Contents</div>
 
-
-
 \page
 
 # Races
@@ -1668,195 +1666,241 @@ Contains 48 Band-Aids, 12 Tongue Depressors, Pen Flashlight, Roll of Medical Tap
 
 <div>
 
-|Skill|Secondary|%
-|:-|:-:|-:
-|*Communications*||&nbsp;
-|&nbsp;&nbsp;&nbsp;&nbsp;Barter|&check;|30+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Creative Writing|&check;|25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Cryptography||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Electronic Countermeasures|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Language Native Tongue|&check;|88+1
-|&nbsp;&nbsp;&nbsp;&nbsp;Language Other|&check;|50+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Laser Communications||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Literacy Native|&check;|40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Literacy Other|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Optic Systems|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Performance|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Public Speaking|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Radio: Basic|&check;|45+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sensory Equipment|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sign Language|&check;|25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sing|&check;|35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Surveillance||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;TV/Video||25+5
-|*Cowboy*
-|&nbsp;&nbsp;&nbsp;&nbsp;Branding||50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Breaking / Taming Wild Horse||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Herd Cattle||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Horsemanship: Cowboy||50+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Hosermanship: Exotic||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Lore: American Indians||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Lore: Cattle / Animals||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Roping||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Trick Riding (special)||&nbsp;
-|*Domestic*
-|&nbsp;&nbsp;&nbsp;&nbsp;Brewing|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Cook|&check;|35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Dance|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Fishing|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Gardening|&check;|40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Housekeeping|&check;|36+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Play Musical Instrument||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Recycle|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sewing|&check;|40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sing|&check;|35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Wardrobe &amp; Grooming|&check;|50+4
+|Skill|Groups|%
+|:-|:-:|-:|
+|Barter                     |communications, secondary  |30+4
+|Creative Writing           |communications, secondary  |25+5
+|Cryptography               |communications             |25+5
+|Electronic Countermeasures |communications, secondary  |30+5
+|Language Native Tongue     |communications, secondary  |88+1
+|Language Other             |communications, secondary  |50+3
+|Laser Communications       |communications             |30+5
+|Literacy Native            |communications, secondary  |40+5
+|Literacy Other             |communications, secondary  |30+5
+|Optic Systems              |communications, secondary  |30+5
+|Performance                |communications, secondary  |30+5
+|Public Speaking            |communications, secondary  |30+5
+|Radio: Basic               |communications, secondary  |45+5
+|Sensory Equipment          |communications, secondary  |30+5
+|Sign Language              |communications, secondary  |25+5
+|Sing                       |communications, domestic, secondary  |35+5
+|Surveillance               |communications             |30+5
+|TV/Video                   |communications             |25+5
+|Branding                   |cowboy                     |50+5
+|Breaking/Taming Wild Horse |cowboy                     |20+5
+|Herd Cattle                |cowboy                     |30+5
+|Horsemanship: Cowboy       |cowboy, horsemanship                     |50+3
+|Hosermanship: Exotic       |cowboy, horsemanship, secondary                     |20+5
+|Lore: American Indians     |cowboy                     |25+5
+|Lore: Cattle / Animals     |cowboy                     |30+5
+|Roping                     |cowboy                     |20+5
+|Trick Riding (special)     |cowboy                     |–
+|Brewing                    |domestic, medical, secondary                    |30+5
+|Cook                       |domestic, secondary                    |35+5
+|Dance                      |domestic, secondary                    |30+5
+|Fishing                    |domestic, secondary                    |30+5
+|Gardening                  |domestic, secondary                    |40+5
+|Housekeeping               |domestic, secondary                    |36+4
+|Play Musical Instrument    |domestic                               |35+5
+|Recycle                    |domestic, secondary                    |30+5
+|Sewing                     |domestic, secondary                    |40+5
+|Wardrobe &amp; Grooming    |domestic, secondary                    |50+4
 
-|Skill|Secondary|%
+|Skill|Groups|%
 |:-|:-:|-:
-|*Electrical* 
-|&nbsp;&nbsp;&nbsp;&nbsp;Basic Electronics|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Computer Repair|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Electrical Engineer||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Electricity Generation||50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Robot Electronics||30+5
-|*Espionage*
-|&nbsp;&nbsp;&nbsp;&nbsp;Detect Ambush||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Detect Concealment||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Disguise||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Escape Artist||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Forgery||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Impersonation||16+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Intelligence||32+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Pick Locks||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Pick Pockets||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Sniper&sup1;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Tracking(people)||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Undercover Ops||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Wilderness Survival||30+5
-|*Horsemanship*
-|&nbsp;&nbsp;&nbsp;&nbsp;General|&check;|20+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Cowboy||50+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Cossack||45+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Cyber-Knight||50+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Equestrian||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Exotic|&check;|20+5
-|*Mechanical*
-|&nbsp;&nbsp;&nbsp;&nbsp;Aircraft||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Automotive|&check;|25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Basic|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Bioware|&check;|30+5;
-|&nbsp;&nbsp;&nbsp;&nbsp;Locksmith|&check;|25+5;
-|&nbsp;&nbsp;&nbsp;&nbsp;Engineer|&check;|25+5;
-|&nbsp;&nbsp;&nbsp;&nbsp;Robotics|&check;|20+5;
-|&nbsp;&nbsp;&nbsp;&nbsp;Vehical Amorer|&check;|30+5;
-|&nbsp;&nbsp;&nbsp;&nbsp;Weapons Engineer|&check;|25+5;
+|Basic Electronics          |electrical, secondary                  |30+5
+|Computer Repair            |electrical, secondary                  |30+5
+|Electrical Engineer        |electrical                             |35+5
+|Electricity Generation     |electrical                             |50+5
+|Robot Electronics          |electrical                             |30+5
+|Detect Ambush              |espionage|30+5
+|Detect Concealment         |espionage|25+5
+|Disguise                   |espionage|25+5
+|Escape Artist              |espionage|30+5
+|Forgery                    |espionage|20+5
+|Impersonation              |espionage|16+4
+|Intelligence               |espionage|32+4
+|Pick Locks                 |rogue, espionage|30+5
+|Pick Pockets               |rogue, espionage|25+5
+|Sniper&sup1;               |espionage|–
+|Tracking(people)           |espionage|25+5
+|Undercover Ops             |espionage|30+5
+|Wilderness Survival        |espionage|30+5
+|Horsemanship(General)      |horsemanship, secondary|20+4
+|Horsemanship(Cossack)               |horsemanship|45+5
+|Horsemanship(Cyber-Knight)               |horsemanship|50+3
+|Horsemanship(Equestrian)               |horsemanship|30+5
+|Aircraft                   |mechanical|25+5
+|Automotive                 |mechanical, secondary|25+5
+|Basic                      |mechanical, secondary|30+5
+|Bioware                    |mechanical|30+5
+|Locksmith                  |mechanical|25+5
+|Engineer                   |mechanical|25+5
+|Robotics                   |mechanical|20+5
+|Vehical Armorer            |mechanical|30+5
+|Weapons Engineer           |mechanical|25+5
 \page
 |Skill|Secondary|%
 |:-|:-:|-:
 |*Medical*||&nbsp;
-|&nbsp;&nbsp;&nbsp;&nbsp;Animal Husbandry|&check;|
-|&nbsp;&nbsp;&nbsp;&nbsp;Brewing||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Crime Scene Investigation||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Cybernetic Medicine||60+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Entomological Medicine||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Field Surgery||16+4
-|&nbsp;&nbsp;&nbsp;&nbsp;First Aid|&check;|45+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Forensics||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Holistic Medicine||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Pathology||40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Paramedic||40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Medical Doctor||50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Psychology||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Veterinary Science||50+4
-|*Military*||&nbsp;
-|&nbsp;&nbsp;&nbsp;&nbsp;Camouflage||20+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Demolitions||60+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Demolitions: Disposal||60+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Demolitions: Underwater||56+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Field Armorer &amp; Munitions Expert||40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Find Contraband||26+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Forced March&sup2;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Military Ettiquette||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Military Fortification||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Naval History||30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Naval Tactics||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;NBC Warfare||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Parachuting||40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Recognize Weapon Quality||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Trap/Mine Detection||20+5
+|Animal Husbandry           |medical,secondary|35+5
+|Crime Scene Investigation  |medical|35+5
+|Cybernetic Medicine        |medical|60+5
+|Entomological Medicine     |medical|20+5
+|Field Surgery              |medical|16+4
+|First Aid                  |medical, secondary|45+5
+|Forensics                  |medical|35+5
+|Holistic Medicine          |medical|20+5
+|Pathology                  |medical|40+5
+|Paramedic                  |medical|40+5
+|Medical Doctor             |medical|50+5
+|Psychology                 |medical|35+5
+|Veterinary Science         |medical|50+4
+|Camouflage                             |military|20+5
+|Demolitions                            |military|60+3
+|Demolitions: Disposal                  |military|60+3
+|Demolitions: Underwater                |military|56+4
+|Field Armorer &amp; Munitions Expert   |military|40+5
+|Find Contraband                        |military|26+4
+|Forced March&sup2;                     |military|–
+|Military Ettiquette                    |military|35+5
+|Military Fortification                 |military|30+5
+|Naval History                          |military|30+5
+|Naval Tactics                          |military|25+5
+|NBC Warfare                            |military|35+5
+|Parachuting                            |military|40+5
+|Recognize Weapon Quality               |military|25+5
+|Trap/Mine Detection                    |military|20+5
 
-|Skill|Secondary|%
-|:-|:-:|-:|
+
 |*Physical*||&nbsp;
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:*none*||
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:Basic&sup3;|&check;|–
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:Expert&sup3;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:Martial Arts&sup3;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:Assassin&sup3;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;H2H:Commando&sup3;||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Acrobatics (varies)||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Aerobic Athletics|&check;|–
-|&nbsp;&nbsp;&nbsp;&nbsp;Athletics (General)|&check;|–
-|&nbsp;&nbsp;&nbsp;&nbsp;Body Building &amp; Weight Lifting |&check;|–
-|&nbsp;&nbsp;&nbsp;&nbsp;Boxing||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Climbing|&check;|30+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Fencing||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Forced March||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Gymnastics||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Juggling||35+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Kick Boxing||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Outdoorsmanship||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Physical Labor||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Prowl||25+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Running|&check;|–
-|&nbsp;&nbsp;&nbsp;&nbsp;Swimming|&check;|50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;SCUBA||50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Wrestling||–
+|H2H:*none*                         |combat, physical|
+|H2H:Basic&sup3;                    |combat, physical ,secondary|–
+|H2H:Expert&sup3;                   |combat, physical|–
+|H2H:Martial Arts&sup3;             |combat, physical|–
+|H2H:Assassin&sup3;                 |combat, physical|–
+|H2H:Commando&sup3;                 |combat, physical|–
+|Acrobatics (varies)                |physical|–
+|Aerobic Athletics                  |physical ,secondary|–
+|Athletics (General)                |physical ,secondary|–
+|Body Building &amp; Weight Lifting |physical ,secondary|–
+|Boxing                             |physical|–
+|Climbing                           |physical ,secondary|30+5
+|Fencing                            |physical|–
+|Forced March                       |physical|–
+|Gymnastics                         |physical|–
+|Juggling                           |physical|35+5
+|Kick Boxing                        |physical|–
+|Outdoorsmanship                    |physical|–
+|Physical Labor                     |physical|–
+|Prowl                              |rogue, physical|25+5
+|Running                            |physical ,secondary|–
+|Swimming                           |physical ,secondary|50+5
+|SCUBA                              |physical|50+5
+|Wrestling                          |physical|–
 
 \page
+
 |Skill|Secondary|%
 |:-|:-:|-:
 |Pilot
-|&nbsp;&nbsp;&nbsp;&nbps;Airplane||50+4;
-|&nbsp;&nbsp;&nbsp;&nbsp;Automobile|&check;|60+2
-|&nbsp;&nbsp;&nbsp;&nbsp;Bicycle|&check;|44+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Boat: Motor/Race/Hydrofoil|&check;|44+4
-|&nbsp;&nbsp;&nbsp;&nbsp;Boat: Paddle/Canoe/Kayak|&check;|50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Boat: Sail|&check;|60+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Boat: Ships||40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Combat Driving||–
-|&nbsp;&nbsp;&nbsp;&nbsp;Flight System Combat||Juicer:40+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Hover Craft (ground)|&check;|50+5
-|&nbsp;&nbsp;&nbsp;&nbsp;Hovercycle, Skycycle, Rocket Bikes|&check;|70+3
-|&nbsp;&nbsp;&nbps;&nbsp;Jet Aircraft||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Jet Packs||42+4
-|&nbsp;&nbsp;&nbps;&nbsp;Jump Bike Combat||Juicer:45+5
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Helicopter||52+3
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Jet Fighter||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Submersibles||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Tanks &amp; APC||36+4
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Warships/Patrol Boats||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Helicopter||52+3
-|&nbsp;&nbsp;&nbps;&nbsp;Military: Helicopter||52+3
-|&nbsp;&nbsp;&nbsp;&nbsp;Motorcycle &amp; Snowmobile|&check;|60+4
-|&nbsp;&nbsp;&nbps;&nbsp;Robots &amp; Power Armor||56+3
-|&nbsp;&nbsp;&nbps;&nbsp;Robot Combat: Basic||–
-|&nbsp;&nbsp;&nbps;&nbsp;Robot Combat: Elite||–
-|&nbsp;&nbsp;&nbps;&nbsp;Tracked &amp; Construction||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Truck||40+4
-|&nbsp;&nbsp;&nbps;&nbsp;Water Scooters||50+5
-|&nbsp;&nbsp;&nbps;&nbsp;Water Skiing &amp Serving||40+4
-|Pilot Related
-|&nbsp;&nbsp;&nbsp;&nbsp;*none*
-|Rogue
-|&nbsp;&nbsp;&nbsp;&nbsp;Gambling
-|Science
-|&nbsp;&nbsp;&nbsp;&nbsp;Astronomy &amp; Navigation
-|&nbsp;&nbsp;&nbsp;&nbsp;Math (basic)
-|&nbsp;&nbsp;&nbsp;&nbsp;Math (advanced)
+|Airplane                           |pilot|50+4;
+|Automobile                         |pilot, secondary|60+2
+|Bicycle                            |pilot, secondary|44+4
+|Boat: Motor/Race/Hydrofoil         |pilot, secondary|44+4
+|Boat: Paddle/Canoe/Kayak           |pilot, secondary|50+5
+|Boat: Sail                         |pilot, secondary|60+5
+|Boat: Ships                        |pilot|40+5
+|Combat Driving                     |pilot|–
+|Flight System Combat               |pilot|Juicer:40+5
+|Hover Craft (ground)               |pilot, secondary|50+5
+|Hovercycle, Skycycle, Rocket Bikes |pilot, secondary|70+3
+|Jet Aircraft                       |pilot|40+4
+|Jet Packs                          |pilot|42+4
+|Jump Bike Combat                   |pilot|Juicer:45+5
+|Military: Helicopter               |pilot, military|52+3
+|Military: Jet Fighter              |pilot, military|40+4
+|Military: Submersibles             |pilot, military|40+4
+|Military: Tanks &amp; APC          |pilot, military|36+4
+|Military: Warships/Patrol Boats    |pilot, military|40+4
+|Military: Helicopter               |pilot, military|52+3
+|Military: Helicopter               |pilot, military|52+3
+|Motorcycle &amp; Snowmobile        |pilot, secondary|60+4
+|Robots &amp; Power Armor           |pilot|56+3
+|Robot Combat: Basic                |pilot|–
+|Robot Combat: Elite                |pilot|–
+|Tracked &amp; Construction         |pilot|40+4
+|Truck                              |pilot|40+4
+|Water Scooters                     |pilot|50+5
+|Water Skiing &amp Serving          |pilot|40+4
+|Navigation                         |pilot-related|40+5
+|Sensory Equipment                  |pilot-related|30+5
+|Weapon Systems                     |pilot-related|40+5
+|Cardsharp                          |rogue|24+4
+|Computer Hacking                   |rogue|20+5
+|Concealment                        |rogue|20+4
+|Find Contraband                    |rogue|26+4
+|Gambling(standard)                 |rogue, secondary|30+5
+|Gambling(Dirty Tricks)             |rogue, secondary|20+4
+|I.D. Undercover Agent              |rogue|30+4
+|Imitate Voices & Sounds            |rogue|36+4
+|Palming                            |rogue|20+5
+|Roadwise                           |rogue|26+4
+|Safe-Cracking                      |rogue|20+4
+|Seduction                          |rogue|20+3+attribute
+|Streetwise                         |rogue|20+4
+|Tailing                            |rogue|30+5
+|Anthropology                       |science|30+5
+|Archaeology                        |science|20+5
+|Artificial Intelligence            |science|30+3
+|Astronomy &amp; Navigation         |science, secondary|30+5
+|Astrophysics                       |science|30+5
+|Biology                            |science|30+5
+|Botany                             |science|25+5
+|Chemistry                          |science|30+5
+|Chemistry: Analytical              |science|25+5
+|Chemistry: Pharmaceutical          |science| 30+5
+|Math (basic)                       |science, secondary|45+5
+|Math (advanced)                    |science, secondary|45+5
+|Xenology                           |science|30+5
+|Zoology                            |science|30+5
 |Technical
-|&nbsp;&nbsp;&nbsp;&nbsp;each individually, except outer-space
+|Appraise Goods                         |technical, secondary|30+5
+|Art                                    |technical, secondary|35+5
+|Begging                                |technical, secondary|30+3
+|Breed Dogs                             |technical, secondary|20+3
+|Calligraphy                            |technical, secondary|35+5
+|Computer Operation                     |technical, secondary|40+5
+|Computer Programming                   |technical, secondary|30+5
+|Cybernetics: Basic                     |technical, secondary|25+5
+|Excavation                             |technical, secondary|40+5
+|Firefighting                           |technical, secondary|30+5
+|Gemology                               |technical, secondary|25+5
+|General Repair &amp; Maintenance       |technical, secondary|35+5
+|History: Pre-Rifts                     |technical, secondary|24+4
+|History: Post Apocolypse               |technical, secondary|30+5
+|Jury-Rig                               |technical, secondary|25+5
+|Law(General)                           |technical, secondary|35+5
+|Leather Working                        |technical, secondary|40+5
+|Lore: American Indians                 |technical, secondary|25+5
+|Lore: Cattle &amp; Animals             |technical, secondary|30+5
+|Lore: D-Bee                            |technical, secondary|25+5
+|Lore: Demons &amp; Monsters            |technical, secondary|25+5
+|Lore: Fairies &amp; Creatures of Magic |technical, secondary|25+5
+|Lore: Juicers                          |technical, secondary|30+5
+|Lore: Magic                            |technical, secondary|25+5
+|Lore: Psychics &amp; Psionics          |technical, secondary|25+5
+|Masonry                                |technical, secondary|40+5
+|Mining                                 |technical, secondary|35+5
+|Mythology                              |technical, secondary|30+5
+|Philosophy                             |technical, secondary|30+5
+|Photography                            |technical, secondary|35+5
+|Recycling                              |technical, secondary|30+5
+|Research                               |technical, secondary|40+5
+|Rope Works                             |technical, secondary|30+5
+|Salvage                                |technical, secondary|35+5
+|Ventriloquism                          |technical, secondary|16+4
+|Whittling & Sculpting                  |technical, secondary|30+5
 |Weapon Proficiency (W.P.)
 |&nbsp;&nbsp;&nbsp;&nbsp;*none*
 |Wilderness
